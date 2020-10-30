@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vanessatu/Repos/SimpleTweet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml",
+            "outputFile": "/Users/vanessatu/Repos/simpleTweet/SimpleTweet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml",
             "map": [
                 {
                     "source": "/Users/vanessatu/.gradle/caches/transforms-2/files-2.1/80f58724caaf330e74c3000cc6797977/core-1.1.0/res/values-mn/values-mn.xml",
